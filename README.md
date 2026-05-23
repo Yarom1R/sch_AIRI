@@ -1,2 +1,2 @@
 # sch_AIRI
-Python expirement script
+![Текст описания](RPG.png)
